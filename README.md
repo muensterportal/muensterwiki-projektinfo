@@ -45,6 +45,8 @@ Zu klärende administrive Punkte
     * Blindenkompatibilität
   * Barrierefreiheitssstärkungsgesetz checken, ob wir darunter fallen und was wir verpflichtend machen müssen.
   * Wie machen es die anderen? "Eye-Able" scheint bei anderen Kommunen verbreitet -> kostet das was?
+  * Gute Seite dazu: https://www.barrierefreiheit.online/beitraege/overlays-fuer-barrierefreiheit
+  * Fazit: Diese Tools taugen nichts, man muss statt dessen "nur" seine Webseite vernünftig mit den Standard-HTML Auszeichnungsattributen versehen. Zitat: "Die Anforderung der digitalen Barrierefreiheit ist deshalb logisch und sinnvoll: Websites sollen auf assistive Technologien richtig reagieren. Der Ansatz der Overlay-Tools steht dem entgegen: Hier sollen die Nutzer agieren. Kleine Analogie zur Offline-Welt: Das wäre in etwa so, als müssten Sie vor dem Betreten eines Geschäfts am Eingang Ihre eigene Brille abgeben eine andere, die der Laden bereitstellt, auswählen und probieren. Danach dürfen Sie dann shoppen."
 
 Welche Kosten entstehen
 * Feste laufende Kosten
