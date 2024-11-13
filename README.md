@@ -3,7 +3,7 @@ Allgemeine Informationen zum Münsterwiki Projekt
 
 ## Wiki-Struktur
 * Der Eingangspunkt ist eine Startseite, die auf die ***Themen-Landingpages*** weiterverzweigt: 
-  * Integrative Themen
+  * Integrative Themen (KIM)
     * Arbeit, Aufenthalt, Wohnen, Gesundheit, Bildung
   * Freizeitthemen
     * Hofläden, Happy Hours, Termine
@@ -12,7 +12,13 @@ Allgemeine Informationen zum Münsterwiki Projekt
   * "Altes Münsterwiki" = bestehende Inhalte
     * Wie präsentieren wir die bestehenden Inhalte am besten?
 
-TODOs
+Konkrete TODOs für 28.11.
+* [ ] Übersetzungsfunktion einbauen
+* [ ] Struktur für KIM Landingpage erstellen 
+* [ ] Themenübersichtsseiten müssen visuell ansprechend sein 
+
+Offene Fragen
+* Wie soll die Seite eigentich heißen? ***MünsterWiki***?
 * Struktur des Wiki: Kategorien, Tags .. etc. Was für Möglichkeiten gibt es? Was sollten wir nutzen?
 * Inhaltlich komplett getrennte Themen, wie können wir die unterbringen?
 * Gibt es einen WISIWYG-Editor für die Mediawiki Inhalte? Der Textedtior ist nicht niederschwellig genug
@@ -30,13 +36,26 @@ Zu klärende administrive Punkte
     * In Browser eingebaute Übersetzungsfunktionen
     * Plugin für MediaWiki (=> scheint es nicht zu geben, weil die Policy von Mediawiki ist, dass die übersetzten Seiten einzeln gepflegt werden)
     * Selbst einen Übersetzungsdienst hosten (=> gibt's das? kompliziert..)
-    * Idee: Schauen, wie machen es andere -> www.stadt-koeln.de
+    * Idee: Schauen, wie machen es andere
+      * www.stadt-koeln.de www.duesseldorf.de -> Nutzen conword.io, Preise nur auf Anfrage
 * Barrierefreiheit
-  * Einfache Sprache
-  * Vorlesefunktion
-  * Blindenkompatibilität
+  * Komponenten
+    * Einfache Sprache
+    * Vorlesefunktion
+    * Blindenkompatibilität
+  * Barrierefreiheitssstärkungsgesetz checken, ob wir darunter fallen und was wir verpflichtend machen müssen.
+  * Wie machen es die anderen? "Eye-Able" scheint bei anderen Kommunen verbreitet -> kostet das was?
 
-Kosten
-* Hosting
-* KI-Suchfunktion
-* Community-Events
+Welche Kosten entstehen
+* Feste laufende Kosten
+  * Hosting
+  * Übersetzungsfunktion
+  * KI-Suchfunktion(?)
+  * Barrierefreiheitsmodul(?)
+  * Arbeitszeit der Mitarbeitenden
+    * Redaktion (Moderation, Endredaktion)
+    * Technik-Administration (Servermanagement, Updates, Wartung, Notfall)
+    * Öffentlichkeitsarbeit & Community-Management(?)
+* Optional 
+  * Wikitreffen & Community-Events veranstalten
+  * Werbung
